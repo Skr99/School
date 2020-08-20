@@ -1,3 +1,8 @@
+body{
+  width: 0 auto;
+}
+
+
 /*___________Floating Information_______________*/
 
 .ml11 {
@@ -101,7 +106,7 @@
   /*_____________________Card Styling__________________________*/
 
 .container .row .card{
-  width: 90%;
+  width: 85%;
   margin: 0.5em 0.5em;
 }
   

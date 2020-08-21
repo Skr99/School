@@ -44,7 +44,7 @@ body{
 
 /*___________Menu Item______________*/
 .container .navbar .collapse .navbar-nav .nav-item{
-  margin: 0 0.5em 0;
+  margin: 0;
   font-weight: 400;
 }
 
@@ -67,7 +67,7 @@ body{
 
 
 
-/*____________Icons_______________*/
+/*____________header area Icons with having background blue_______________*/
 
 .container-fluid .icon{
   display: flex;
